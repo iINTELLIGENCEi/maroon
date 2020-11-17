@@ -1,0 +1,58 @@
+body {
+    background-color: maroon;
+    color: white;
+    padding: 1px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+}
+.bg-indigo {
+    background-color: maroon;
+}
+#header {
+    /* height: 100vh !important; */
+}
+#about {
+    background-color: maroon;
+    color: white;
+    padding: 10px;
+    text-align: justify;
+}
+#services {
+    background-color:white;
+    color: black;
+    padding-top: 30px;
+}
+#portfolios {
+    /* height: 100vh; */
+    background-color: maroon;
+}
+#team {
+    background-color: maroon;
+    color: white;
+    padding: 5px;
+}
+#contact {
+    height: 25vh;
+    background-color: white;
+    color: black;
+    padding: 30px;
+    text-align: center;
+    padding-top: 50px;
+}
+#footer {
+    height: 20vh;
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.space-up-below {
+    padding-top: 10px;
+}
+.rightside {
+    text-align: right;
+}
